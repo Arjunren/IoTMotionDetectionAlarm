@@ -1,0 +1,1 @@
+Motion detection alarm is an ESP32 learning project using PIR motion module; low-voltage active buzzer. It measures motion and publishes validated telemetry over Wi-Fi and TLS MQTT for home security learners. It includes documented wiring, provisioning, simulation tests, and security guidance. Includes wiring, security, calibration, field guidance.
